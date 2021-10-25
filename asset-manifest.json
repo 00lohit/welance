@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/welance/static/css/main.c77945ec.chunk.css",
+    "main.js": "/welance/static/js/main.971bddab.chunk.js",
+    "main.js.map": "/welance/static/js/main.971bddab.chunk.js.map",
+    "runtime-main.js": "/welance/static/js/runtime-main.6a08c9d1.js",
+    "runtime-main.js.map": "/welance/static/js/runtime-main.6a08c9d1.js.map",
+    "static/js/2.54641d83.chunk.js": "/welance/static/js/2.54641d83.chunk.js",
+    "static/js/2.54641d83.chunk.js.map": "/welance/static/js/2.54641d83.chunk.js.map",
+    "static/js/3.ddb036d5.chunk.js": "/welance/static/js/3.ddb036d5.chunk.js",
+    "static/js/3.ddb036d5.chunk.js.map": "/welance/static/js/3.ddb036d5.chunk.js.map",
+    "index.html": "/welance/index.html",
+    "static/css/main.c77945ec.chunk.css.map": "/welance/static/css/main.c77945ec.chunk.css.map",
+    "static/js/2.54641d83.chunk.js.LICENSE.txt": "/welance/static/js/2.54641d83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a08c9d1.js",
+    "static/js/2.54641d83.chunk.js",
+    "static/css/main.c77945ec.chunk.css",
+    "static/js/main.971bddab.chunk.js"
+  ]
+}
